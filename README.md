@@ -18,7 +18,7 @@ Digital transformation for rural healthcare across India
 
 **Learned**: Data saves lives. Technology + training = transformation.
 
-### **Chapter 2: Corporate Delivery (Current)** 📱
+### **Chapter 2: Corporate Delivery ** 📱
 **Delivery ManManagement @ Sasken Technologies** - Telecom Domain
 - Leading cross-functional teams
 - Agile delivery and process improvement
