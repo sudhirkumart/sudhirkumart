@@ -2,7 +2,7 @@
 
 ## Social Entrepreneur → Corporate Leader → Strategic Consultant
 
-**Now leading telecom delivery @ Sasken | Building strategic consulting practice**
+**Building strategic consulting practice**
 
 ---
 
@@ -18,12 +18,7 @@ Digital transformation for rural healthcare across India
 
 **Learned**: Data saves lives. Technology + training = transformation.
 
-### **Chapter 2: Corporate Delivery ** 📱
-**Delivery ManManagement @ Sasken Technologies** - Telecom Domain
-- Leading cross-functional teams
-- Agile delivery and process improvement
-
-### **Chapter 3: Strategic Consulting (Building)** 📊
+### **Chapter 2: Strategic Consulting (Building)** 📊
 Exploring business analytics and strategic advisory
 - Helping businesses through pro-bono consulting
 - Building data-driven decision-making skills
