@@ -1,12 +1,12 @@
 # Hi, I'm Sudhir Kumar! 👋
 
-## Social Entrepreneur → Corporate Leader → Strategic Consultant
+## Social Entrepreneur  → Strategic Consultant
 
 **Building strategic consulting practice**
 
 ---
 
-## 💼 Three Chapters, One Mission
+## 💼 Two Chapters, One Mission
 
 ### **Chapter 1: Social Enterprise (2013-2021)** 🏥
 Digital transformation for rural healthcare across India
