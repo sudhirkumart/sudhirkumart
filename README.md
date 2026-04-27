@@ -128,4 +128,4 @@ Building strategic consulting practice that combines:
 
 ---
 
-*Social Enterprise (2013-21) → Sasken Technologies (Current) → Strategic Consulting (2026) → Always: Photographer & Person of Faith*
+*SaaS Product Builder | Data & Analytics Platforms | Social Technology Advocate*
