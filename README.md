@@ -2,13 +2,13 @@
 
 ## Social Entrepreneur  → Strategic Consultant
 
-**Building strategic consulting practice**
+**SaaS Product Builder | Data & Analytics Platforms | Social Technology Advocate*
 
 ---
 
-## 💼 Two Chapters, One Mission
+## 💼 Multiple Chapters, One Mission
 
-### **Chapter 1: Social Enterprise (2013-2021)** 🏥
+### **Chapter 1: Social Enterprise ** 🏥
 Digital transformation for rural healthcare across India
 - ✅ **30+ hospitals** transformed
 - ✅ **10K+ patients** impacted annually
